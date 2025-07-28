@@ -1,4 +1,4 @@
-# <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3UwOTlyaDFvOG50bW83Ym9ucm4wenQyazI4OHc4dnRhaDluajJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FqWenF6TzBaf2CGBFO/giphy.gif" width = "100"> Bienbenido al GITHUB de jerson-null (elesel) 👋
+# <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3UwOTlyaDFvOG50bW83Ym9ucm4wenQyazI4OHc4dnRhaDluajJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FqWenF6TzBaf2CGBFO/giphy.gif" width = "100"> Bienvenido al GITHUB de jerson-null (elesel) 👋
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
